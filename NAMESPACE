@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+
+S3method(print, ContObservHMM)
+S3method(plot, ContObservHMM)
+S3method(summary, ContObservHMM)
